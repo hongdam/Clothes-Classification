@@ -2,6 +2,7 @@
 CNN for Clothes Category and Style Classification
 
 > lasagne를 CNN을 구성함.
+
 > 데이터셋 : http://www.tokio.kr 의 이미지를 활용했고, 라벨은 제목과 카테고리로 부터 추출했다.
 
 
